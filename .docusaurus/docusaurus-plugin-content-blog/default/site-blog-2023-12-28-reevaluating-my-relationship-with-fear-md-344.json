@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/re-evaluating-my-relationship-with-fear",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-12-28-reevaluating-my-relationship-with-fear.md",
+  "source": "@site/blog/2023-12-28-reevaluating-my-relationship-with-fear.md",
+  "title": "Re-evaluating my relationship with fear",
+  "description": "The challenge and the fear of the challenge",
+  "date": "2023-12-28T00:00:00.000Z",
+  "formattedDate": "December 28, 2023",
+  "tags": [
+    {
+      "label": "mindset",
+      "permalink": "/blog/tags/mindset"
+    },
+    {
+      "label": "failure",
+      "permalink": "/blog/tags/failure"
+    },
+    {
+      "label": "reflection",
+      "permalink": "/blog/tags/reflection"
+    }
+  ],
+  "readingTime": 8.775,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Conor O'Mara",
+      "title": "Author",
+      "url": "https://github.com/comaraDOTcom",
+      "imageURL": "https://github.com/comaraDOTcom.png",
+      "key": "conoromara"
+    }
+  ],
+  "frontMatter": {
+    "slug": "re-evaluating-my-relationship-with-fear",
+    "title": "Re-evaluating my relationship with fear",
+    "authors": [
+      "conoromara"
+    ],
+    "tags": [
+      "mindset",
+      "failure",
+      "reflection"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

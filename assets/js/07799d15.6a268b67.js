@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcomara_do_tcom_github_io=self.webpackChunkcomara_do_tcom_github_io||[]).push([[9650],{5745:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

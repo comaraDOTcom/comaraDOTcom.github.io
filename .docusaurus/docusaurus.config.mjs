@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
+  "organizationName": "comaraDOTcom",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

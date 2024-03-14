@@ -7,6 +7,9 @@ tags: [mindset, failure, reflection]
 
 ## The challenge and the fear of the challenge
 
+A blog post on the importance of seeking out a challenge where failure is a likely outcome. How to deal with those emotions and look at it in a way that prepares you for the other challenges in life.
+<!--truncate-->
+
 I believe seeking out a challenge is one of the biggest acts of self-love you can make.
 
 Identifying something you are not capable of doing at this moment in time, but believe you are capable of. Maybe the belief isn't there yet, but we've seen others do it and are enchanted by their achievements.

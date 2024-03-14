@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-12-26-welcome/index.md",
+  "source": "@site/blog/2023-12-26-welcome/index.md",
+  "title": "Welcome",
+  "description": "Welcome to the blog.",
+  "date": "2023-12-26T00:00:00.000Z",
+  "formattedDate": "December 26, 2023",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.375,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Conor O'Mara",
+      "title": "Author",
+      "url": "https://github.com/comaraDOTcom",
+      "imageURL": "https://github.com/comaraDOTcom.png",
+      "key": "conoromara"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "conoromara"
+    ],
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Re-evaluating my relationship with fear",
+    "permalink": "/blog/re-evaluating-my-relationship-with-fear"
+  }
+}
